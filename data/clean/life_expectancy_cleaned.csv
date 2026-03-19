@@ -1,0 +1,233 @@
+country,icc,LE (ys)
+Monaco,MCO,86.73
+San Marino,SMR,86.03
+Hong Kong,HKG,85.9
+Japan,JPN,85.15
+South Korea,KOR,84.64
+Saint Barthélemy,BLM,84.63
+Andorra,AND,84.46
+French Polynesia,PYF,84.44
+Switzerland,CHE,84.37
+Australia,AUS,84.34
+Italy,ITA,84.18
+Singapore,SGP,84.13
+Spain,ESP,84.08
+Liechtenstein,LIE,84.06
+Réunion,REU,83.92
+Gibraltar,GIB,83.9
+Malta,MLT,83.78
+Norway,NOR,83.76
+Sweden,SWE,83.73
+France,FRA,83.7
+Macao,MAC,83.6
+Holy See (Vatican City State),VAT,83.41
+United Arab Emirates,ARE,83.39
+Iceland,ISL,83.3
+Canada,CAN,83.05
+Martinique,MTQ,83.04
+Ireland,IRL,82.92
+Israel,ISR,82.9
+Portugal,PRT,82.89
+Qatar,QAT,82.83
+Bermuda,BMU,82.83
+Luxembourg,LUX,82.64
+Netherlands,NLD,82.61
+Belgium,BEL,82.59
+Guadeloupe,GLP,82.56
+New Zealand,NZL,82.52
+Austria,AUT,82.45
+Finland,FIN,82.4
+Greece,GRC,82.39
+Denmark,DNK,82.39
+Puerto Rico,PRI,82.27
+Cyprus,CYP,82.15
+Slovenia,SVN,82.09
+Germany,DEU,81.86
+United Kingdom,GBR,81.75
+Bahrain,BHR,81.74
+Maldives,MDV,81.73
+Chile,CHL,81.72
+Isle of Man,IMN,81.39
+Costa Rica,CRI,81.38
+Taiwan,TWN,81.14
+Kuwait,KWT,80.97
+Cayman Islands,CYM,80.9
+Faroe Islands,FRO,80.81
+Oman,OMN,80.65
+Czechia,CZE,80.25
+Panama,PAN,80.15
+Albania,ALB,80.13
+Anguilla,AIA,79.86
+Falkland Islands (Malvinas),FLK,79.78
+United States,USA,79.76
+Estonia,EST,79.64
+Saudi Arabia,SAU,79.4
+New Caledonia,NCL,79.23
+Northern Mariana Islands,MNP,79.22
+Poland,POL,79.15
+Croatia,HRV,79.09
+Wallis and Futuna,WLF,79.03
+China,CHN,79.02
+Slovakia,SVK,78.81
+Cuba,CUB,78.62
+Uruguay,URY,78.62
+Turks and Caicos Islands,TCA,78.5
+Bosnia and Herzegovina,BIH,78.42
+Turkmenistan,TKM,78.38
+Jordan,JOR,78.3
+Peru,PER,78.3
+Colombia,COL,78.27
+Iran,IRN,78.25
+Lebanon,LBN,78.22
+Antigua and Barbuda,ATG,78.11
+Sri Lanka,LKA,78.03
+Ecuador,ECU,77.94
+Argentina,ARG,77.83
+North Macedonia,MKD,77.81
+Guam,GUM,77.81
+British Virgin Islands,VGB,77.76
+Montenegro,MNE,77.6
+French Guiana,GUF,77.54
+Hungary,HUN,77.5
+"Palestine, State of",PSE,77.42
+Tokelau,TKL,77.42
+Curaçao,CUW,77.34
+Serbia,SRB,77.33
+"Saint Helena, Ascension and Tristan da Cunha",SHN,77.3
+Saint Pierre and Miquelon,SPM,77.28
+Malaysia,MYS,77.16
+Tunisia,TUN,77.1
+Thailand,THA,77.06
+Algeria,DZA,76.89
+Sint Maarten (Dutch part),SXM,76.86
+Aruba,ABW,76.78
+Montserrat,MSR,76.66
+Barbados,BRB,76.64
+Latvia,LVA,76.63
+Mayotte,MYT,76.61
+Cabo Verde,CPV,76.56
+Lithuania,LTU,76.48
+Romania,ROU,76.4
+Brazil,BRA,76.37
+Armenia,ARM,76.18
+"Virgin Islands, U.S.",VIR,76.15
+Bulgaria,BGR,76.13
+Morocco,MAR,75.86
+Cook Islands,COK,75.85
+Brunei Darussalam,BRN,75.83
+Grenada,GRD,75.67
+Mexico,MEX,75.63
+Bangladesh,BGD,75.47
+Mauritius,MUS,75.44
+Nicaragua,NIC,75.43
+Libya,LBY,75.18
+Vietnam,VNM,75.05
+Ukraine,UKR,75.02
+Bahamas,BHS,75.01
+Georgia,GEO,74.98
+Belarus,BLR,74.97
+Azerbaijan,AZE,74.89
+Kazakhstan,KAZ,74.81
+Paraguay,PRY,74.24
+Dominican Republic,DOM,74.12
+Belize,BLZ,74.08
+Suriname,SUR,74.04
+North Korea,PRK,73.98
+Trinidad and Tobago,TTO,73.89
+Bhutan,BTN,73.8
+Russian Federation,RUS,73.7
+Syria,SYR,73.43
+Tonga,TON,73.39
+Honduras,HND,73.39
+Seychelles,SYC,73.28
+American Samoa,ASM,73.25
+Saint Lucia,LCA,73.15
+Guatemala,GTM,73.04
+Venezuela,VEN,73.01
+Uzbekistan,UZB,72.78
+El Salvador,SLV,72.74
+India,IND,72.72
+Iraq,IRQ,72.63
+Saint Kitts and Nevis,KNA,72.58
+Mongolia,MNG,72.49
+Tajikistan,TJK,72.19
+Egypt,EGY,72.16
+Kyrgyzstan,KGZ,72.11
+Samoa,WSM,72.08
+Vanuatu,VUT,72.02
+Western Sahara,ESH,71.98
+Jamaica,JAM,71.86
+Saint Vincent and the Grenadines,VCT,71.65
+Dominica,DMA,71.62
+Moldova,MDA,71.6
+Indonesia,IDN,71.58
+Nepal,NPL,71.16
+Cambodia,KHM,71.14
+Solomon Islands,SLB,70.98
+Guyana,GUY,70.57
+Turkmenistan,TKM,70.45
+Greenland,GRL,70.44
+Niue,NIU,70.36
+Sao Tome and Principe,STP,70.26
+Philippines,PHL,70.17
+Yemen,YEM,69.73
+Laos,LAO,69.7
+Palau,PLW,69.61
+Botswana,BWA,69.57
+Eritrea,ERI,69.4
+Senegal,SEN,69.39
+Mauritania,MRT,69.16
+Bolivia,BOL,69.06
+Uganda,UGA,68.92
+Gabon,GAB,68.88
+Rwanda,RWA,68.47
+Timor-Leste,TLS,68.33
+Ethiopia,ETH,68.15
+Pakistan,PAK,68.06
+Malawi,MWI,67.92
+Namibia,NAM,67.81
+Fiji,FJI,67.77
+"Micronesia, Federated States of",FSM,67.65
+Tanzania,TZA,67.63
+Tuvalu,TUV,67.56
+Myanmar,MMR,67.5
+Comoros,COM,67.48
+Marshall Islands,MHL,67.32
+Sudan,SDN,66.89
+Zambia,ZMB,66.88
+Kiribati,KIR,66.86
+Afghanistan,AFG,66.77
+South Africa,ZAF,66.66
+Djibouti,DJI,66.61
+Papua New Guinea,PNG,66.5
+Gambia,GMB,66.45
+Congo,COG,66.42
+Ghana,GHA,66.08
+Haiti,HTI,65.45
+Angola,AGO,65.17
+Guinea-Bissau,GNB,64.59
+Eswatini,SWZ,64.54
+Cameroon,CMR,64.51
+Equatorial Guinea,GNQ,64.3
+Madagascar,MDG,64.25
+Kenya,KEN,64.19
+Mozambique,MOZ,64.14
+Burundi,BDI,64.14
+Zimbabwe,ZWE,63.63
+Togo,TGO,63.33
+Liberia,LBR,62.62
+Nauru,NRU,62.61
+Côte d'Ivoire,CIV,62.44
+Congo,COG,62.39
+Sierra Leone,SLE,62.33
+Niger,NER,61.88
+Burkina Faso,BFA,61.65
+Benin,BEN,61.32
+Guinea,GIN,61.23
+Mali,MLI,61.11
+Somalia,SOM,59.26
+Lesotho,LSO,58.63
+Central African Republic,CAF,58.15
+South Sudan,SSD,57.97
+Chad,TCD,55.58
+Nigeria,NGA,54.95
