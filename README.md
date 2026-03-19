@@ -83,12 +83,13 @@ The project implements a simple **data engineering pipeline**.
 ## Data Pipeline Architecture
 
 Data sources
-
-Web scraping (Happiness dataset)
-CPI dataset download
-Democracy Index download
-Life expectancy dataset download 
-        
+   │
+   ├── Web scraping (Happiness dataset)
+   ├── CPI dataset download
+   ├── Democracy Index download
+   └── Life expectancy dataset download
+          │
+          ▼
 Raw data storage
 (data/raw)
           │
