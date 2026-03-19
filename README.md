@@ -83,35 +83,35 @@ The project implements a simple **data engineering pipeline**.
 ## Data Pipeline Architecture
 
 Data sources
-│
+
 - Web scraping (Happiness dataset)
 - CPI dataset download
 - Democracy Index download
-- Life expectancy dataset download
-     │
-     ▼
+- Life expectancy dataset download -->
+
+
 Raw data storage
-(data/raw)
-     │
-     ▼
+(data/raw) -->
+
+
 Data cleaning & harmonization
+
 - column normalization
 - country name standardization
-- ISO country code matching
-     │
-     ▼
+- ISO country code matching -->
+
+
 Clean datasets
-(data/clean)
-     │
-     ▼
-Data merging
-     │
-     ▼
+(data/clean) -->
+
+Data merging -->
+
+
 Statistical analysis
 - correlation
-- OLS regression
-     │
-     ▼
+- OLS regression -->
+
+
 Visualizations
 - scatter regression plots
 - interactive world maps
