@@ -64,10 +64,15 @@ Scatter plots with regression lines illustrate these relationships and highlight
 The project combines four international datasets.
 
 | Dataset | Organization | Source |
+
 | Happiness Index | World Happiness Report | ourworldindata.org
+
 | Corruption Perception Index | Transparency International | ourworldindata.org
+
 | Democracy Index | Economist Intelligence Unit | worldbank.org
+
 | Life Expectancy | World Bank / global health datasets |www.worldometers.info
+
 
 Data acquisition is implemented through a combination of:
 
