@@ -42,7 +42,7 @@ This project focuses on three measurable external indicators:
 The aim is to explore their relationship with the **Happiness Index** using statistical methods and visual analytics.
 
 
-#Research Question:
+# Research question:
 
 Do institutional quality and life conditions explain cross-country differences in happiness?
 
@@ -55,7 +55,7 @@ Hypotheses:
 
 # Key Findings
 
-Correlation analysis shows **moderately strong positive relationships**  between happiness and all three explanatory variables (0.59 � 0.72).  A **1 year increase in life expectancy**, for example,  corresponds to approximately **+0.11 increase in happiness score** based on the regression slope.
+Correlation analysis shows **moderately strong positive relationships**  between happiness and all three explanatory variables (0.59 - 0.72).  A **1 year increase in life expectancy**, for example,  corresponds to approximately **+0.11 increase in happiness score** based on the regression slope.
 Scatter plots with regression lines illustrate these relationships and highlight several **outlier countries** where happiness deviates from expected levels.
 
 
