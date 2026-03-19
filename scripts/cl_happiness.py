@@ -1,5 +1,10 @@
-import pandas as pd
+import sys
 from pathlib import Path
+
+sys.path.append(str(Path(__file__).resolve().parents[1]))
+
+import pandas as pd
+#from pathlib import Path
 
 from utils.rename_cols import rename_cols
 from utils.shrink_df import shrink_df
