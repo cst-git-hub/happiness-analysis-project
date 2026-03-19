@@ -42,7 +42,7 @@ This project focuses on three measurable external indicators:
 The aim is to explore their relationship with the **Happiness Index** using statistical methods and visual analytics.
 
 
-#Research Question:
+# Research question:
 
 Do institutional quality and life conditions explain cross-country differences in happiness?
 
