@@ -1,11 +1,11 @@
 import pandas as pd
 from pathlib import Path
 
-from Happiness_analysis.utils.rename_cols import rename_cols
-from Happiness_analysis.utils.shrink_df import shrink_df
-from Happiness_analysis.utils.get_iso3 import get_iso3
-#from Happiness_analysis.utils.fuzzmatching import suggest_country
-from Happiness_analysis.utils.country_replace_map import country_fix
+from utils.rename_cols import rename_cols
+from utils.shrink_df import shrink_df
+from utils.get_iso3 import get_iso3
+#from utils.fuzzmatching import suggest_country
+from utils.country_replace_map import country_fix
 
 # root project directory
 BASE_DIR = Path(__file__).resolve().parents[1]

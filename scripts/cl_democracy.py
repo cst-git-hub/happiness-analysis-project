@@ -1,8 +1,8 @@
 import pandas as pd
 from pathlib import Path
 
-from Happiness_analysis.utils.rename_cols import rename_cols
-from Happiness_analysis.utils.shrink_df import shrink_df
+from utils.rename_cols import rename_cols
+from utils.shrink_df import shrink_df
 
 # root project directory
 BASE_DIR = Path(__file__).resolve().parents[1]

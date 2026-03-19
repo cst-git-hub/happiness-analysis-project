@@ -82,6 +82,21 @@ The project implements a simple **data engineering pipeline**.
 
 ## Data Pipeline Architecture
 
+```mermaid
+graph TD
+    A[Data sources] --> B[Raw data storage<br/>(data/raw)]
+    B --> C[Data cleaning & harmonization<br/>- column normalization<br/>- country name standardization<br/>- ISO country code matching]
+    C --> D[Clean datasets<br/>(data/clean)]
+    D --> E[Data merging]
+    E --> F[Statistical analysis<br/>- correlation<br/>- OLS regression]
+    F --> G[Visualizations<br/>- scatter regression plots<br/>- interactive world maps]
+    
+    A1[Web scraping<br/>(Happiness dataset)] -.-> A
+    A2[CPI dataset download] -.-> A
+    A3[Democracy Index download] -.-> A
+    A4[Life expectancy dataset download] -.-> A
+
+
 Data sources
 
 - Web scraping (Happiness dataset)
